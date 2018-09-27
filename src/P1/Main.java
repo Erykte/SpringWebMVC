@@ -11,6 +11,9 @@ public class Main {
 		System.out.print("Hello3");
 		
 		System.out.print("Hello4");
+		
+		System.out.print("Hello4");
+
 	}
 
 }
