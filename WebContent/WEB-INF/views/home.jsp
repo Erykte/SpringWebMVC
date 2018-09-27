@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Yahooo HaloHalo</h1>
+	Home
 </body>
 </html>
